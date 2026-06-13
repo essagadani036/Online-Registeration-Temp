@@ -15,7 +15,7 @@ export default function Hero() {
             <div className='flex lg:flex-1 outline-none'>
               <Link href='/' className='-m-1.5 p-1.5 outline-none'>
                 <span className='sr-only'>
-                  KP Initiative for Generative AI and Cloud Computing
+                  Muhammad Essa & Co Initiative for Agentic AI Architect and Cloud Computing
                 </span>
                 <Image
                   //   placeholder='blur'
