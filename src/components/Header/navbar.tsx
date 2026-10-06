@@ -95,7 +95,7 @@ export const Dialog = () => {
             </Link>
           </SheetTitle>
           <SheetDescription className='hidden'>
-            KP CM IT PROGRAM.
+            Quick Tech Institute for Generative AI and Cloud Computing.
           </SheetDescription>
         </SheetHeader>
         <div className='flex flex-col gap-y-6'>

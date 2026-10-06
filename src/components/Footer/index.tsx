@@ -33,7 +33,7 @@ export default function Footer() {
                 />
               </div>
               <p className=' text-base leading-6 text-center text-gray-600'>
-                CM KPK Initiative for Generative AI and Cloud Computing.
+                Quick Tech Institute for Generative AI and Cloud Computing.
               </p>
               {/* <div className='flex space-x-6 justify-center'>
                 {navigationData.social.map((item) => (
@@ -99,7 +99,7 @@ export default function Footer() {
                         href={'mailto:education@cmkpk.org'}
                         className={`relative after:absolute after:hover:bg-custom-color after:left-0 after:-bottom-[5px] after:h-[3px] after:w-[0%] after:rounded-xl  after:duration-300 hover:after:w-full`}
                       >
-                        education@cmkpk.org
+                        education@quicktech.org
                       </Link>
                     </li>
                   </ul>

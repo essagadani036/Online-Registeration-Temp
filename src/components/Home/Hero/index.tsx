@@ -53,12 +53,12 @@ export default function Hero() {
         <div className='mx-auto max-w-7xl  px-6 py-10 lg:py-28 lg:px-8'>
           <div className='mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-6 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8'>
             <h1 className='max-w-2xl text-4xl font-bold tracking-tight text-custom-color sm:text-5xl lg:col-span-2 xl:col-auto'>
-              Chief Minister Khyber Pakhtunkhwa Initiative for Generative AI and
+              Quick Tech Institute for Generative AI and
               Cloud Computing
             </h1>
             <div className='mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1'>
               <p className='text-2xl font-semibold leading-8 text-gray-900'>
-                Getting Khyber Pakhtunkhwa Ready For The $100 Trillion
+                Getting Ready For The $100 Trillion
                 <br /> Global AI Industrial Revolution
               </p>
               <div className='my-10 flex sm:items-center items-start  flex-col sm:flex-row gap-6 '>

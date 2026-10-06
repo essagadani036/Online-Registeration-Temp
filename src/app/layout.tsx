@@ -12,7 +12,7 @@ const montserrat = Montserrat({
 })
 
 export const metadata = {
-  title: 'CM KP Initiative for Generative AI and Cloud Computing',
+  title: 'Quick Tech Institute for Generative AI and Cloud Computing',
   description: 'A Nation Building Program of Government of Khyber Pakhtunkhwa',
   icons: {
     icon: { url: '/kpk/kp_logo.png', type: 'image/png' },
