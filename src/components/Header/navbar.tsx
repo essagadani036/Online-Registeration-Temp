@@ -82,7 +82,7 @@ export const Dialog = () => {
           <SheetTitle className='w-fit'>
             <Link href='/' className=' outline-none '>
               <span className='sr-only'>
-                KP Initiative for Generative AI and Cloud Computing
+                Shaheed Nasrullah Gadani Initiative for Empower Youth 
               </span>
               <Image
                 //   placeholder='blur'
@@ -95,7 +95,7 @@ export const Dialog = () => {
             </Link>
           </SheetTitle>
           <SheetDescription className='hidden'>
-            Quick Tech Institute for Generative AI and Cloud Computing.
+          Shaheed Nasrullah Gadani Initiative for Empower Youth 
           </SheetDescription>
         </SheetHeader>
         <div className='flex flex-col gap-y-6'>
