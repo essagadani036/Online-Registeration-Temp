@@ -18,7 +18,7 @@ const Header = () => {
         <div className='flex lg:flex-1 outline-none'>
           <Link href='/' className='-m-1.5 p-1.5 outline-none'>
             <span className='sr-only'>
-              Quick Tech Institute for Generative AI and Cloud Computing
+              Shaheed Nasrullah Gadani Initiative for Empowering Youth 
             </span>
             <Image
               //   placeholder='blur'
