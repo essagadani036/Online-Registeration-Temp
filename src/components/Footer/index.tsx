@@ -33,7 +33,7 @@ export default function Footer() {
                 />
               </div>
               <p className=' text-base leading-6 text-center text-gray-600'>
-                Quick Tech Institute for Generative AI and Cloud Computing.
+                Shaheed Nasrullah Gadani Initiative for Empowering Youth 
               </p>
               {/* <div className='flex space-x-6 justify-center'>
                 {navigationData.social.map((item) => (
@@ -49,7 +49,7 @@ export default function Footer() {
               </div>
               <div className='border-t border-white/10 text-center'>
                 <p className='text-sm leading-6 text-gray-600'>
-                  &copy; 2024 KPK, GOV. All rights reserved.
+                  &copy; 2024 SNG, Private. All rights reserved.
                 </p>
               </div> */}
             </div>
@@ -99,7 +99,7 @@ export default function Footer() {
                         href={'mailto:education@cmkpk.org'}
                         className={`relative after:absolute after:hover:bg-custom-color after:left-0 after:-bottom-[5px] after:h-[3px] after:w-[0%] after:rounded-xl  after:duration-300 hover:after:w-full`}
                       >
-                        education@quicktech.org
+                        education@sngacademy.org
                       </Link>
                     </li>
                   </ul>
