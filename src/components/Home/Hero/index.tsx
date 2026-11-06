@@ -15,7 +15,7 @@ export default function Hero() {
             <div className='flex lg:flex-1 outline-none'>
               <Link href='/' className='-m-1.5 p-1.5 outline-none'>
                 <span className='sr-only'>
-                  Muhammad Essa & Co Initiative for Agentic AI Architect and Cloud Computing
+                  Shaheed Nasrullah Gadani Initiative for Empowering Youth 
                 </span>
                 <Image
                   //   placeholder='blur'
@@ -53,8 +53,7 @@ export default function Hero() {
         <div className='mx-auto max-w-7xl  px-6 py-10 lg:py-28 lg:px-8'>
           <div className='mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-6 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8'>
             <h1 className='max-w-2xl text-4xl font-bold tracking-tight text-custom-color sm:text-5xl lg:col-span-2 xl:col-auto'>
-              Quick Tech Institute for Generative AI and
-              Cloud Computing
+              Shaheed Nasrullah Gadani Initiative for Empowering Youth 
             </h1>
             <div className='mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1'>
               <p className='text-2xl font-semibold leading-8 text-gray-900'>
